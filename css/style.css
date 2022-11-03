@@ -1,0 +1,42 @@
+.navbar-default .navbar-nav>li>a{
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+}
+.navbar-default .navbar-nav>li>a:hover{
+    color: greenyellow;
+}
+.navbar-default {
+    background-color: coral;
+    border-color: coral;
+}
+.navbar-default .navbar-brand {
+    color: #777;
+    margin-top: -18px;
+}
+.navbar {
+    border-radius: 0;
+    margin-bottom: 0;
+}
+/*Slider start*/
+.carousel-caption {
+  color: crimson;
+}
+.btn-info{
+    background-color: purple;
+}
+/*Blog Post*/
+#blogPost{
+    padding-top: 80px;
+}
+#blogPost .h1{
+    padding-bottom: 30px;
+}
+
+/*Testing Part*/
+#testing{
+    padding-top: 100px;
+}
+#testing .h1{
+    padding-bottom: 30px;
+}
